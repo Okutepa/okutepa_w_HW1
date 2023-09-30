@@ -1,4 +1,5 @@
 # The EA Team 
-This repo describes team members Wisdom Okutepa and Polchai Parn, our roots and also our hobbies. Enjoy your read!
+This repo describes team members Wisdom Okutepa and Polchai Parn, our origins and also our hobbies. Enjoy your read!
 
-# Wisdom Okutepa 
+# Team member 1 
+My name is Wisdom Okutepa 
