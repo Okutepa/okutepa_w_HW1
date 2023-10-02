@@ -42,7 +42,7 @@ Before becoming a UI designer, I worked as a graphic designer. I've been designi
 **2.** How to sell drug online(fast)
 **3.** Dark
 
-![From hobbies](images/telecaster.jpg)
+![From hobbies](images/jazzmaster.jpeg)
 ![From movies](images/8miles.jpg)
-![From movies](images/thebatman.jpeg)
-![From series](images/dark.jpg)
+![From movies](images/batman.jpeg)
+![From series](images/dark.jpeg)
