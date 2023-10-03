@@ -22,6 +22,10 @@ My name is Wisdom Okutepa, i come from Kogi state in Nigeria. An interesting fac
 **2.** Sex Education
 **3.** Smallville
 
+![From hobbies](images/fc-24.jpg)
+![From movies](images/BMW_325i.jpg)
+![From movies](images/Cannabis-leaves.jpg)
+![From series](images/captain_jack.jpg)
 
 
 ### Napas Polchai
